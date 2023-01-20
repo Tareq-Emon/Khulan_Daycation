@@ -74,3 +74,10 @@ img {
     color: #89958e;
     text-decoration: none;
 }
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-thumb{
+    background: #29705f;
+    border-radius: 1rem;
+}
