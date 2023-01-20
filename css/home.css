@@ -1,5 +1,5 @@
 #top-header {
-    background-color: #49688e;
+    background-color: #096563;
     min-height: 35px;
 }
 
@@ -36,9 +36,9 @@ img {
 }
 
 .main-nav {
-    background-color: #294a70;
+    background-color: #29705f;
     height: 58px;
-    border-bottom: 5px solid #f4a024;
+    border-bottom: 5px solid #8d9f35;
     display: block;
     float: left;
     width: 100%;
@@ -51,12 +51,12 @@ img {
     padding-right: 15px;
 }
 .nav-bac :hover{
-    background-color: #f4a024 !important;
+    background-color: #8d9f35 !important;
 }
 .right-header{
-    background-color: #294970;
+    background-color: #435b3a;
     height: 35px;
-    border-left: 5px solid #ffab1f;
+    border-left: 5px solid #e18606;
     border-end-start-radius: 5px;
     font-size: 25px;
     color: #fff;
@@ -65,7 +65,7 @@ img {
 .footer{
     height: 70px;
     width: 100%;
-    background-color:#49688e ;
+    background-color:#29705f ;
     color: #fff;
 }
 
